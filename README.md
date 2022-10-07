@@ -2,8 +2,7 @@
 
 Modelo 1  base de datos de rentadora de Vehiculos SOMCAR App / Soluciones Mobiles del Caribe
 
-Info del proyecto
-https://matiasdbrites.github.io/SOMCAR_dise-oUx/
+Link excalidraw https://excalidraw.com/#json=J0O4Z8sGZLZ1mtReflDQc,qmAy7QbbYs9AfSaobocHWQ
 
 [![modelo-DBsomcar.png](https://i.postimg.cc/1tzB1Cdz/modelo-DBsomcar.png)](https://postimg.cc/Ff23jZNt)
 
