@@ -6,7 +6,7 @@ Link excalidraw https://excalidraw.com/#json=J0O4Z8sGZLZ1mtReflDQc,qmAy7QbbYs9Af
 
 [![modelo-DBsomcar.png](https://i.postimg.cc/1tzB1Cdz/modelo-DBsomcar.png)](https://postimg.cc/Ff23jZNt)
 
-[![MODELADO-DE-BASE-DE-DATOS-SOMCAR.png](https://i.postimg.cc/KvQnxrnk/MODELADO-DE-BASE-DE-DATOS-SOMCAR.png)](https://postimg.cc/2VbqxW9r)
+[![somcar-Modelado-DB.png](https://i.postimg.cc/PJNBzTGc/somcar-Modelado-DB.png)](https://postimg.cc/QKG4jLdk)
 
 Modelo 2  base de datos de Paseadora de Mascotas Merry App / Aplicacion de servicio de paseo de mascotas
 
