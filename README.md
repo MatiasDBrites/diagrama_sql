@@ -12,5 +12,5 @@ Modelo 2  base de datos de Paseadora de Mascotas Merry App / Aplicacion de servi
 
 [![modelo-DBmerry.png](https://i.postimg.cc/cCMW3JsC/modelo-DBmerry.png)](https://postimg.cc/hQjNWcQR)
 
-[![merry-Modelado-DB.png](https://i.postimg.cc/3xqtMmvk/merry-Modelado-DB.png)](https://postimg.cc/nXv4BsTx)
+[![merry-Modelado-DB.png](https://i.postimg.cc/zXGf6g5Z/merry-Modelado-DB.png)](https://postimg.cc/DmRFbm8B)
 
